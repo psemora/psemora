@@ -1,4 +1,4 @@
-#About me
+# About me
 
 I am a graduate of Institute of Automation and Computer Science, Faculty of Mechanical Engineering at Brno University of Technology. I am starting programmer I am interested in machine learning (especially neural networks), computer vision and robotics. 
 
